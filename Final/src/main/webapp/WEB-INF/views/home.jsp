@@ -10,7 +10,7 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<p>김수진 테스트</p>
-<p>김수진 테스트2</p>
+<p>김수진 테스트 3</p>
+
 </body>
 </html>

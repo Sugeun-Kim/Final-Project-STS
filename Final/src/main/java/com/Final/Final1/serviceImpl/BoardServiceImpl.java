@@ -15,7 +15,7 @@ public class BoardServiceImpl implements BoardService{
 	@Autowired
 	BoardDAO boardDAO;
 	
-
+	
 	@Override
 	public List<BoardDTO> list() {
 		// TODO Auto-generated method stub

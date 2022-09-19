@@ -12,7 +12,7 @@
 <P>  The time on the server is ${serverTime}. </P>
 
 <p> SEO Git Commit Test 0919 1808i </p>
-ㅎㅇ
-<p>김수진 테스트 3</p>
+
+<p>수정했다네(수근)</p>
 </body>
 </html>

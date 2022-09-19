@@ -37,7 +37,7 @@ public class BoardController {
 	}
 	
 	
-	//안녕 나는 양광모라고해
+	
 }
 
 

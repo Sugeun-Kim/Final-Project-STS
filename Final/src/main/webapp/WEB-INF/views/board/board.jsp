@@ -40,26 +40,26 @@
             
             <div class="board_container">
                 <div class="board_title">
-                    <h1>공지</h1>
+                    <h1>커리어</h1>
                 </div>
                 <div class="board_category">
                    <ul>
                     <li><a href="lifeBoard.html">일상</a></li>
                     <li><a href="columnBoard.html">칼럼</a></li>
                     <li><a href="studyBoard.html">스터디</a></li>
-                    <li><a href="AnnoBoard.html">공지</a></li>
+                    <li><a href="AnnoBoard.html">커리어</a></li>
                    </ul>
                 </div>
 
 
                 <div class="board_nav">
-                    <button onclick="location.href='boardWriteForm.html' ">작성하기</button>
+                   <button type="button" onclick="location.href='insert' ">작성하기</button>
                     <div class="board_nav_search">
                         <div class="search">
                             <div class="search-box">
                                 <form method="POST">
-                                 <i class="fa-solid fa-magnifying-glass"></i><input class="search-txt" type="text" placeholder="검색어를 입력해 주세요" name="keyword" />
-                                  <button type="submit" class="searchbtn"></button>
+                                 <input class="search-txt" type="text" placeholder="검색어를 입력해 주세요" name="keyword" />
+                                  <button type="submit" class="searchbtn"><i class="fa-solid fa-magnifying-glass"></i></button>
                                 </form>
                             </div>
                         </div>

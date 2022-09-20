@@ -33,5 +33,6 @@
 안녕! 피곤하겠지만 다들 힘내.... [수진]
 업데이트!!!
 >>>>>>> branch 'main' of https://github.com/kwangmoyang/yang_Final-Project-STS.git
+20220920 김수진
 </body>
 </html>

@@ -1,8 +1,8 @@
-package com.Final.Final1.service;
+package com.Final.Final1.comm.service;
 
 import java.util.List;
 
-import com.Final.Final1.model.BoardDTO;
+import com.Final.Final1.comm.model.BoardDTO;
 
 public interface BoardService {
 

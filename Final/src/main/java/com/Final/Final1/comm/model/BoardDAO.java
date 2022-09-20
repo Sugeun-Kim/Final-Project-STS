@@ -1,4 +1,4 @@
-package com.Final.Final1.model;
+package com.Final.Final1.comm.model;
 
 import java.util.List;
 

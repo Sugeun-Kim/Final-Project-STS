@@ -134,12 +134,14 @@
 /*========== sns 계정 로그인 영역 ==========*/
 .sns_header{
     width: 33%;
-    margin-top: 1vh;
+    /*  */
+    margin-top: 3vh;
     /* border: 2px solid black; */
 }
 .login_sns {
     width: 30%;
     height: 12vh;
+    margin-top: 5px;
     display: flex;
     justify-content: space-between;
     align-items: center;

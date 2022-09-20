@@ -1,5 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,10 +9,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../resources/css/login.css">
     <!-- 유니콘 아이콘 사이트 -->
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
     <title>login</title>
+     <link rel="stylesheet" href="resources/css/login.css?after">
 </head>
 
 <body>
@@ -64,10 +66,10 @@
             <!-- ========== SNS 로그인영역 ========== -->
             <form id="SNSlogin_Form" method="POST" action="">
                 <div class="login_sns">
-                    <li><a href=""><img src="../../resources/img/네이버 로고.png" alt="" srcset=""></a></li>
-                    <li><a href=""><img src="../../resources/img/구글 로고.png" alt="" srcset=""></a></li>
-                    <li><a href=""><img src="../../resources/img/카카오톡 로고 라운드.png" alt="" srcset=""></a></li>
-                    <li><a href=""><img src="../../resources/img/깃허브 로고.png" alt="" srcset=""></a></li>
+                    <li><a href=""><img src="resources/img/네이버 로고.png" alt="" srcset=""></a></li>
+                    <li><a href=""><img src="resources/img/구글 로고.png" alt="" srcset=""></a></li>
+                    <li><a href=""><img src="resources/img/카카오톡 로고 라운드.png" alt="" srcset=""></a></li>
+                    <li><a href=""><img src="resources/img/깃허브 로고.png" alt="" srcset=""></a></li>
                 </div>
             </form>
         </div>
@@ -77,4 +79,4 @@
 <script src="../../resources/js/login.js"></script>
 
 
-</html>tml>
+</html>
